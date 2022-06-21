@@ -1,0 +1,33 @@
+body { 
+    background-color:rgb(255, 255, 255);
+    font-family: 'Playfair Display', serif;
+
+}
+ul {
+    list-style: none;
+   
+    
+}
+a { 
+    text-transform: uppercase;
+    lighting-color: azure;
+    text-decoration: none;
+    font-style: unset;
+}
+  a:hover {
+    color: rgb(18, 216, 238);
+  }
+  
+.photo_singn {
+    text-transform: uppercase;
+    color: rgba(180,173,158);
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.text {
+    color: rgb(98,98,98);
+}
+h1 {
+    color: rgb(98,98,98);
+    
+}
